@@ -11,3 +11,4 @@ This work was supported by the National Science Foundation (CBET-1351692 and IOS
   * [**Figure4**.ipynb](../master/Figure4.ipynb)—examples of evaluating model congruence.
   * [**Figure5**.ipynb](../master/Figure5.ipynb)—Bayesian replay detection vs HMM congruence vs human scoring.
   * [**Figure6**.ipynb](../master/Figure6.ipynb)—hidden Markov models of PBE activity in open fields.
+  * [**Figure7**.ipynb](../master/Figure7.ipynb)—identifying extraspatial events using HMM congruence and local Bayesian significance.
